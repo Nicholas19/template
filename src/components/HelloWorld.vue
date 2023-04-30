@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1 v-for="item in 5" :key="item">{{ msg }}</h1>
+    <h1>{{ msg }}</h1>
   </div>
 </template>
 
